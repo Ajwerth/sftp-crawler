@@ -4,7 +4,6 @@ import mock
 from unittest.mock import MagicMock, patch
 from Crawler.crawler import Crawler
 
-
 class TestCrawler:
 
     # Test paramikos transport.connect called with correct args
